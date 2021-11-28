@@ -1,15 +1,17 @@
 # Background
 
-Find available AWS re:Invent 2021 sessions that you still could reserve easily.
+Find available AWS re:Invent 2021 sessions that you could still reserve.
 
 # Usage
 
+## Obtain Api Token
+1. Login into: https://portal.awsevents.com/events/reInvent2021/dashboard/event/
+2. Obtain your personal api token in developer tools:
+![](docs/api-token.png)
 ## Setup
-
     nvm use
     npm install
     
-    // Could be found in developer tools on (After login): https://portal.awsevents.com/events/reInvent2021/dashboard/event/sessions
     export AWS_REINVENT_API_TOKEN=<<YOUR_AWS_REINVENT_API_TOKEN>>
 
 ## Execute Script
