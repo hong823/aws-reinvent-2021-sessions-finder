@@ -35,3 +35,6 @@ Available to reserve session without a conflict:
 
     ##### [RESERVABLE] 12/3/2021, 8:30:00 AM - 12/3/2021, 9:30:00 AM, Caesars Forum, [STP206] Drift on AWS: Transforming how businesses buy from businesses
         !!!!! No conflict !!!!!
+
+### Find Session and Reserve Seat
+![](docs/reserve-seat.png)
